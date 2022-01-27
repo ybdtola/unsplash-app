@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Buckin-Regular";
+  src: url("./fonts/Buckin-Regular.otf")  format("opentype");
+}
+@font-face {
+  font-family: "Buckin-Medium";
+  src: url("./fonts/Buckin-Medium.otf")  format("opentype");
+}
+@font-face {
+    font-family: "Gordita-Medium";
+    src: url("./fonts/Gordita-Medium.otf")  format("opentype");
+  }

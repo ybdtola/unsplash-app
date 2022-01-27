@@ -1,0 +1,33 @@
+:root{
+    --search-padding-yA: 6.25rem;
+    --search-padding-xA: 1.875rem;
+    --nav-bg-color: #dde2e9;
+    --base-margin-yA: 0;
+    --base-margin-xA: auto;
+    --sgilightblue: #707e93;
+    --midnightblue: #314974;
+    --base-margin-xyA: 0;
+    --search-form-mxw: 850px;
+    --search-result-mxw: 800px;
+    --border-radius: 5px;
+    --border-bx-shadow: 0px 10px 25px 0px;
+    --sbx-color: #00000010;
+    --background-overlap: -50px;
+    --grid-min: 220px;
+    --grid-max: 1fr;
+    --masonry: repeat(auto-fit, minmax(var(--grid-min), var(--grid-max)));
+    --grid-max-width: 750px;
+    --use-grid: grid;
+    --gap: 2rem;
+    --gtr: 350px;
+    --use-flex: flex;
+    --column-pos: center;
+    --row-pos: center;
+    --container-pb: 6.25rem;
+    --search-field-padding: 1rem;
+    --search-field-padding-left: 3.125rem;
+    --min-height: 100vh;
+    --search-icon-pos: 10px;
+    --reflow: dense;
+  }
+  
